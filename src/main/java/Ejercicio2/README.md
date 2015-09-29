@@ -1,0 +1,1 @@
+Ejercicio 2 de la colección de ejrcicios de atenea.
