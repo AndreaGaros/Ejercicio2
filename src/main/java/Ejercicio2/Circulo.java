@@ -16,7 +16,9 @@ public class Circulo extends AbstractShape {
     private double radio;
 
     public Circulo(double radio){
+
         super("cirulo");
+        this.radio = radio;
     }
 
     public double area(){
